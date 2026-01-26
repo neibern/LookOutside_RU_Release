@@ -1,4 +1,4 @@
-Перевод игры.
+
 # Приветствую, здравомыслящие индивиды!
 С гордостью хочу представить русскую локализацию на такой замечательный проект, как Look Outside. Локализации всего около месяца, делалась она в свободное от работы время.
 **Пока это бета**, но, предполагаю, что к весне она будет готова, ну или _почти_ готова.
@@ -40,6 +40,23 @@
 
 >[!WARNING]
 >На старых сохранениях имена персонажей могут остаться английскими.
+
+# Скриншоты:
+<details>
+
+<summary> ~тут~ </summary>
+
+<img width="1225" height="936" alt="00" src="https://github.com/user-attachments/assets/2257c13b-7bd6-489b-bef3-66f7f8bae761" /><img width="1225" height="936" alt="05" src="https://github.com/user-attachments/assets/57b22706-357f-4288-9b43-35b9546f2d62" />
+<img width="1225" height="936" alt="04" src="https://github.com/user-attachments/assets/d7aefffd-6873-413b-a399-baa398c55934" />
+<img width="1225" height="936" alt="03" src="https://github.com/user-attachments/assets/6a619211-d66f-4278-8449-5eadc096930e" />
+<img width="1225" height="936" alt="02" src="https://github.com/user-attachments/assets/804d0589-d6de-4e6b-8264-d47843dae7e3" />
+<img width="1225" height="936" alt="01" src="https://github.com/user-attachments/assets/3bd19d8e-1fc5-4ad1-a0d2-64a86143353c" />
+
+<img width="1225" height="936" alt="06" src="https://github.com/user-attachments/assets/90098f39-919e-4158-923c-1a86ba5b3194" />
+
+
+</details>
+
 
 # Авторы:
 [DeusVult](https://steamcommunity.com/profiles/76561198329403450) - главый переводчик, автор картинок для руководства.
