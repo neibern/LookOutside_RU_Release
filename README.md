@@ -61,9 +61,9 @@
 # Авторы:
 [DeusVult](https://steamcommunity.com/profiles/76561198329403450) - главый переводчик, автор картинок для руководства.
 
-[Neibern](https://steamcommunity.com/profiles/Neibern) - создание кириллицы для оригинального шрифта игры, перевод спрайтов и их редактура.
+[Neibern](https://steamcommunity.com/id/Neibern/) - создание кириллицы для оригинального шрифта игры, перевод спрайтов и их редактура.
 
-[ksakoddda](https://steamcommunity.com/profiles/helmetcreekium) - помощь главному переводчику.
+[ksakoddda](https://steamcommunity.com/id/helmetcreekium) - помощь главному переводчику.
 
 Михаил "BreadLi" Клыпутенко - помощь главному переводчику.
 
