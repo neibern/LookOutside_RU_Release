@@ -1,1 +1,2588 @@
-{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":13,"note":"<noAutosave>","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":1,"width":17,"data":[4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,4064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"events":[null,{"id":1,"name":"Credits","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":122,"indent":0,"parameters":[7,7,0,4,"\"\""]},{"code":355,"indent":0,"parameters":["var tx = \"Ending: \" + gVr(567)+ \" - \"+gVr(566)+\"pts\\n\";"]},{"code":655,"indent":0,"parameters":["var dayScore = 0;"]},{"code":655,"indent":0,"parameters":["var daysLeft  = 15 - gVr(15);"]},{"code":655,"indent":0,"parameters":["dayScore = daysLeft*50; //50pts per day less than 15"]},{"code":655,"indent":0,"parameters":["if(gVr(15)<10){daysLeft -= 5; dayScore+= daysLeft*50;} //100 for days<10"]},{"code":655,"indent":0,"parameters":["if(gVr(15)<5){daysLeft -= 5; dayScore+= daysLeft*100;} //200 for days<5"]},{"code":655,"indent":0,"parameters":["sVr(565,dayScore);"]},{"code":655,"indent":0,"parameters":["tx +=\"Days Elapsed: \"+gVr(15)+\" - \"+gVr(565)+\"pts\\n\";"]},{"code":655,"indent":0,"parameters":["var friendScore = 200 * gVr(37);"]},{"code":655,"indent":0,"parameters":["sVr(564,friendScore);"]},{"code":655,"indent":0,"parameters":["tx +=\"Friends: \"+gVr(37)+\" - \"+gVr(564)+\"pts\\n\";"]},{"code":655,"indent":0,"parameters":["var bossScore = 100 * gVr(544);"]},{"code":655,"indent":0,"parameters":["sVr(563,bossScore);"]},{"code":655,"indent":0,"parameters":["tx +=\"Bosses Defeated: \"+gVr(544)+\" - \"+gVr(563)+\"pts\\n\\n\";"]},{"code":655,"indent":0,"parameters":["sVr(7,tx);"]},{"code":111,"indent":0,"parameters":[0,602,1]},{"code":355,"indent":1,"parameters":["if(gSw(1118)){setAchievement(\"Misc_NoShowers\");}"]},{"code":655,"indent":1,"parameters":["sVr(7,gVr(7)+\"Miasma - Did not shower once. +10pts\\n\");"]},{"code":122,"indent":1,"parameters":[563,563,1,0,10]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,603,1]},{"code":355,"indent":1,"parameters":["if(gSw(1118)){setAchievement(\"Misc_NoSleep\");}"]},{"code":655,"indent":1,"parameters":["sVr(7,gVr(7)+\"Insomnia - Did not sleep once. +500pts\\n\");"]},{"code":122,"indent":1,"parameters":[563,563,1,0,500]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,604,1]},{"code":355,"indent":1,"parameters":["if(gSw(1118)){setAchievement(\"Misc_NoEat\");}"]},{"code":655,"indent":1,"parameters":["sVr(7,gVr(7)+\"Ascetic - Did not eat any meals. +500pts\\n\");"]},{"code":122,"indent":1,"parameters":[563,563,1,0,500]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,37,0,0,0]},{"code":355,"indent":1,"parameters":["if(gSw(1118)){setAchievement(\"Misc_NoFriends\");}"]},{"code":655,"indent":1,"parameters":["sVr(7,gVr(7)+\"Loner - Did not make any friends. +500pts\\n\");"]},{"code":122,"indent":1,"parameters":[563,563,1,0,500]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,605,1]},{"code":355,"indent":1,"parameters":["if(gSw(1118)){setAchievement(\"Misc_NoGames\");}"]},{"code":655,"indent":1,"parameters":["sVr(7,gVr(7)+\"Gamersbane - Did not play any video games. +500pts\\n\");"]},{"code":122,"indent":1,"parameters":[563,563,1,0,500]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,15,0,3,2]},{"code":355,"indent":1,"parameters":["if(gSw(1118)){setAchievement(\"Misc_3DayClear\");}"]},{"code":655,"indent":1,"parameters":["sVr(7,gVr(7)+\"Long Weekend - Beat the game in 3 days or less. +1000pts\\n\");"]},{"code":122,"indent":1,"parameters":[563,563,1,0,1000]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,1118,0]},{"code":111,"indent":1,"parameters":[0,1117,1]},{"code":355,"indent":2,"parameters":["setAchievement(\"Misc_ColdShoulder\");"]},{"code":655,"indent":2,"parameters":["sVr(7,gVr(7)+\"No Saves - You didn't save the game once. +4000pts\\n\");"]},{"code":122,"indent":2,"parameters":[563,563,1,0,4000]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":111,"indent":2,"parameters":[0,9,0]},{"code":355,"indent":3,"parameters":["setAchievement(\"Misc_ColdShoulder\");"]},{"code":655,"indent":3,"parameters":["sVr(7,gVr(7)+\"Iron Man mode - You disabled saving with Sybil. +2000pts\\n\");"]},{"code":122,"indent":3,"parameters":[563,563,1,0,2000]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":355,"indent":0,"parameters":["sVr(580,gVr(566)+gVr(565)+gVr(564)+gVr(563));"]},{"code":655,"indent":0,"parameters":["sVr(7,gVr(7)+\"Score : \"+gVr(580)+\"\\n\");"]},{"code":105,"indent":0,"parameters":[2,false]},{"code":405,"indent":0,"parameters":["End Results"]},{"code":405,"indent":0,"parameters":["\\V[7]"]},{"code":122,"indent":0,"parameters":[579,579,0,1,580]},{"code":122,"indent":0,"parameters":[8,8,0,4,"\"Game Mode : \""]},{"code":355,"indent":0,"parameters":["if(gSw(13)){sVr(8,gVr(8)+\"Easy - Multiplier: 1x\");}"]},{"code":655,"indent":0,"parameters":["if(gSw(31)){sVr(8,gVr(8)+\"Normal - Multiplier: 2x\"); sVr(579,gVr(580)*2);}"]},{"code":655,"indent":0,"parameters":["if(gSw(8)){sVr(8,gVr(8)+\"Hard - Multiplier: 3x\"); sVr(579,gVr(580)*3);}"]},{"code":355,"indent":0,"parameters":[""]},{"code":111,"indent":0,"parameters":[1,579,0,500,4]},{"code":101,"indent":1,"parameters":["",0,0,2,""]},{"code":401,"indent":1,"parameters":["\\V[8]"]},{"code":401,"indent":1,"parameters":["\\{Final Score : \\C[3]\\V[579]\\}"]},{"code":401,"indent":1,"parameters":["\\{Your Rating:    \\{\\C[10]F\\n\\}\\}"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":111,"indent":1,"parameters":[1,579,0,1000,4]},{"code":101,"indent":2,"parameters":["",0,0,2,""]},{"code":401,"indent":2,"parameters":["\\V[8]"]},{"code":401,"indent":2,"parameters":["\\{Final Score : \\C[3]\\V[579]\\}"]},{"code":401,"indent":2,"parameters":["\\{Your Rating:    \\{\\C[20]D\\n\\}\\}"]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":111,"indent":2,"parameters":[1,579,0,2000,4]},{"code":101,"indent":3,"parameters":["",0,0,2,""]},{"code":401,"indent":3,"parameters":["\\V[8]"]},{"code":401,"indent":3,"parameters":["\\{Final Score : \\C[3]\\V[579]\\}"]},{"code":401,"indent":3,"parameters":["\\{Your Rating:    \\{\\C[21]C\\n\\}\\}"]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":111,"indent":3,"parameters":[1,579,0,4000,4]},{"code":101,"indent":4,"parameters":["",0,0,2,""]},{"code":401,"indent":4,"parameters":["\\V[8]"]},{"code":401,"indent":4,"parameters":["\\{Final Score : \\C[3]\\V[579]\\}"]},{"code":401,"indent":4,"parameters":["\\{Your Rating:    \\{\\C[1]B\\n\\}\\}"]},{"code":0,"indent":4,"parameters":[]},{"code":411,"indent":3,"parameters":[]},{"code":355,"indent":4,"parameters":["setAchievement(\"Progress_RankA\");"]},{"code":111,"indent":4,"parameters":[1,579,0,6000,4]},{"code":101,"indent":5,"parameters":["",0,0,2,""]},{"code":401,"indent":5,"parameters":["\\V[8]"]},{"code":401,"indent":5,"parameters":["\\{Final Score : \\C[3]\\V[579]\\}"]},{"code":401,"indent":5,"parameters":["\\{Your Rating:    \\{\\C[0]A\\n\\}\\}"]},{"code":0,"indent":5,"parameters":[]},{"code":411,"indent":4,"parameters":[]},{"code":355,"indent":5,"parameters":["setAchievement(\"Progress_RankS\");"]},{"code":111,"indent":5,"parameters":[1,579,0,9000,4]},{"code":101,"indent":6,"parameters":["",0,0,2,""]},{"code":401,"indent":6,"parameters":["\\V[8]"]},{"code":401,"indent":6,"parameters":["\\{Final Score : \\C[3]\\V[579]\\}"]},{"code":401,"indent":6,"parameters":["\\{Your Rating:    \\{\\C[3]S\\n\\}\\}"]},{"code":0,"indent":6,"parameters":[]},{"code":411,"indent":5,"parameters":[]},{"code":111,"indent":6,"parameters":[1,579,0,12000,4]},{"code":101,"indent":7,"parameters":["",0,0,2,""]},{"code":401,"indent":7,"parameters":["\\V[8]"]},{"code":401,"indent":7,"parameters":["\\{Final Score : \\C[3]\\V[579]\\}"]},{"code":401,"indent":7,"parameters":["\\{Your Rating:    \\{\\C[3]SS\\n\\}\\}"]},{"code":0,"indent":7,"parameters":[]},{"code":411,"indent":6,"parameters":[]},{"code":111,"indent":7,"parameters":[1,579,0,15000,4]},{"code":101,"indent":8,"parameters":["",0,0,2,""]},{"code":401,"indent":8,"parameters":["\\V[8]"]},{"code":401,"indent":8,"parameters":["\\{Final Score : \\C[3]\\V[579]\\}"]},{"code":401,"indent":8,"parameters":["\\{Your Rating:    \\{\\C[15]SSS\\n\\}\\}"]},{"code":0,"indent":8,"parameters":[]},{"code":411,"indent":7,"parameters":[]},{"code":355,"indent":8,"parameters":["setAchievement(\"Progress_RankX\");"]},{"code":101,"indent":8,"parameters":["",0,0,2,""]},{"code":401,"indent":8,"parameters":["\\V[8]"]},{"code":401,"indent":8,"parameters":["\\{Final Score : \\C[3]\\V[579]\\}"]},{"code":401,"indent":8,"parameters":["\\{Your Rating:    \\{\\C[15]X\\n\\}\\}"]},{"code":0,"indent":8,"parameters":[]},{"code":412,"indent":7,"parameters":[]},{"code":0,"indent":7,"parameters":[]},{"code":412,"indent":6,"parameters":[]},{"code":0,"indent":6,"parameters":[]},{"code":412,"indent":5,"parameters":[]},{"code":0,"indent":5,"parameters":[]},{"code":412,"indent":4,"parameters":[]},{"code":0,"indent":4,"parameters":[]},{"code":412,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[60]},{"code":242,"indent":0,"parameters":[5]},{"code":354,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":0,"y":0}]}
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 13,
+    "note": "<noAutosave>",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 1,
+    "width": 17,
+    "data": [
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "Credits",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                7,
+                                7,
+                                0,
+                                4,
+                                "\"\""
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "var tx = \"Ending: \" + gVr(567)+ \" - \"+gVr(566)+\"pts\\n\";"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "var dayScore = 0;"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "var daysLeft  = 15 - gVr(15);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "dayScore = daysLeft*50; //50pts per day less than 15"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "if(gVr(15)<10){daysLeft -= 5; dayScore+= daysLeft*50;} //100 for days<10"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "if(gVr(15)<5){daysLeft -= 5; dayScore+= daysLeft*100;} //200 for days<5"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "sVr(565,dayScore);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "tx +=\"Days Elapsed: \"+gVr(15)+\" - \"+gVr(565)+\"pts\\n\";"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "var friendScore = 200 * gVr(37);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "sVr(564,friendScore);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "tx +=\"Friends: \"+gVr(37)+\" - \"+gVr(564)+\"pts\\n\";"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "var bossScore = 100 * gVr(544);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "sVr(563,bossScore);"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "tx +=\"Bosses Defeated: \"+gVr(544)+\" - \"+gVr(563)+\"pts\\n\\n\";"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "sVr(7,tx);"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                602,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "if(gSw(1118)){setAchievement(\"Misc_NoShowers\");}"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 1,
+                            "parameters": [
+                                "sVr(7,gVr(7)+\"Miasma - Did not shower once. +10pts\\n\");"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                563,
+                                563,
+                                1,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                603,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "if(gSw(1118)){setAchievement(\"Misc_NoSleep\");}"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 1,
+                            "parameters": [
+                                "sVr(7,gVr(7)+\"Insomnia - Did not sleep once. +500pts\\n\");"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                563,
+                                563,
+                                1,
+                                0,
+                                500
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                604,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "if(gSw(1118)){setAchievement(\"Misc_NoEat\");}"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 1,
+                            "parameters": [
+                                "sVr(7,gVr(7)+\"Ascetic - Did not eat any meals. +500pts\\n\");"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                563,
+                                563,
+                                1,
+                                0,
+                                500
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                37,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "if(gSw(1118)){setAchievement(\"Misc_NoFriends\");}"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 1,
+                            "parameters": [
+                                "sVr(7,gVr(7)+\"Loner - Did not make any friends. +500pts\\n\");"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                563,
+                                563,
+                                1,
+                                0,
+                                500
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                605,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "if(gSw(1118)){setAchievement(\"Misc_NoGames\");}"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 1,
+                            "parameters": [
+                                "sVr(7,gVr(7)+\"Gamersbane - Did not play any video games. +500pts\\n\");"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                563,
+                                563,
+                                1,
+                                0,
+                                500
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                15,
+                                0,
+                                3,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "if(gSw(1118)){setAchievement(\"Misc_3DayClear\");}"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 1,
+                            "parameters": [
+                                "sVr(7,gVr(7)+\"Long Weekend - Beat the game in 3 days or less. +1000pts\\n\");"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                563,
+                                563,
+                                1,
+                                0,
+                                1000
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1118,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                1117,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 2,
+                            "parameters": [
+                                "setAchievement(\"Misc_ColdShoulder\");"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 2,
+                            "parameters": [
+                                "sVr(7,gVr(7)+\"No Saves - You didn't save the game once. +4000pts\\n\");"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                563,
+                                563,
+                                1,
+                                0,
+                                4000
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                9,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 3,
+                            "parameters": [
+                                "setAchievement(\"Misc_ColdShoulder\");"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 3,
+                            "parameters": [
+                                "sVr(7,gVr(7)+\"Iron Man mode - You disabled saving with Sybil. +2000pts\\n\");"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 3,
+                            "parameters": [
+                                563,
+                                563,
+                                1,
+                                0,
+                                2000
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "sVr(580,gVr(566)+gVr(565)+gVr(564)+gVr(563));"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "sVr(7,gVr(7)+\"Score : \"+gVr(580)+\"\\n\");"
+                            ]
+                        },
+                        {
+                            "code": 105,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 405,
+                            "indent": 0,
+                            "parameters": [
+                                "End Results"
+                            ]
+                        },
+                        {
+                            "code": 405,
+                            "indent": 0,
+                            "parameters": [
+                                "\\V[7]"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                579,
+                                579,
+                                0,
+                                1,
+                                580
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                8,
+                                8,
+                                0,
+                                4,
+                                "\"Game Mode : \""
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "if(gSw(13)){sVr(8,gVr(8)+\"Easy - Multiplier: 1x\");}"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "if(gSw(31)){sVr(8,gVr(8)+\"Normal - Multiplier: 2x\"); sVr(579,gVr(580)*2);}"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "if(gSw(8)){sVr(8,gVr(8)+\"Hard - Multiplier: 3x\"); sVr(579,gVr(580)*3);}"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                579,
+                                0,
+                                500,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\V[8]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\{Final Score : \\C[3]\\V[579]\\}"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\{Your Rating:    \\{\\C[10]F\\n\\}\\}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                579,
+                                0,
+                                1000,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\V[8]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\{Final Score : \\C[3]\\V[579]\\}"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\{Your Rating:    \\{\\C[20]D\\n\\}\\}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                579,
+                                0,
+                                2000,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\V[8]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\{Final Score : \\C[3]\\V[579]\\}"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\{Your Rating:    \\{\\C[21]C\\n\\}\\}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                579,
+                                0,
+                                4000,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\V[8]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\{Final Score : \\C[3]\\V[579]\\}"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\{Your Rating:    \\{\\C[1]B\\n\\}\\}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 355,
+                            "indent": 4,
+                            "parameters": [
+                                "setAchievement(\"Progress_RankA\");"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 4,
+                            "parameters": [
+                                1,
+                                579,
+                                0,
+                                6000,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 5,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "\\V[8]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "\\{Final Score : \\C[3]\\V[579]\\}"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "\\{Your Rating:    \\{\\C[0]A\\n\\}\\}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 355,
+                            "indent": 5,
+                            "parameters": [
+                                "setAchievement(\"Progress_RankS\");"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 5,
+                            "parameters": [
+                                1,
+                                579,
+                                0,
+                                9000,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 6,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 6,
+                            "parameters": [
+                                "\\V[8]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 6,
+                            "parameters": [
+                                "\\{Final Score : \\C[3]\\V[579]\\}"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 6,
+                            "parameters": [
+                                "\\{Your Rating:    \\{\\C[3]S\\n\\}\\}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 6,
+                            "parameters": [
+                                1,
+                                579,
+                                0,
+                                12000,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 7,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 7,
+                            "parameters": [
+                                "\\V[8]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 7,
+                            "parameters": [
+                                "\\{Final Score : \\C[3]\\V[579]\\}"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 7,
+                            "parameters": [
+                                "\\{Your Rating:    \\{\\C[3]SS\\n\\}\\}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 7,
+                            "parameters": [
+                                1,
+                                579,
+                                0,
+                                15000,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 8,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 8,
+                            "parameters": [
+                                "\\V[8]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 8,
+                            "parameters": [
+                                "\\{Final Score : \\C[3]\\V[579]\\}"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 8,
+                            "parameters": [
+                                "\\{Your Rating:    \\{\\C[15]SSS\\n\\}\\}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 8,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 355,
+                            "indent": 8,
+                            "parameters": [
+                                "setAchievement(\"Progress_RankX\");"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 8,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 8,
+                            "parameters": [
+                                "\\V[8]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 8,
+                            "parameters": [
+                                "\\{Final Score : \\C[3]\\V[579]\\}"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 8,
+                            "parameters": [
+                                "\\{Your Rating:    \\{\\C[15]X\\n\\}\\}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 8,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 7,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 6,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 5,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                60
+                            ]
+                        },
+                        {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [
+                                5
+                            ]
+                        },
+                        {
+                            "code": 354,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 0,
+            "y": 0
+        }
+    ]
+}

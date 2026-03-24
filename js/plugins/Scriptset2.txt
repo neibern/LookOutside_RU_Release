@@ -1,0 +1,17 @@
+
+
+function gSw(switchId) {
+ return $gameSwitches.value(switchId);
+};
+function gVr(varId) {
+ return $gameVariables.value(varId);
+};
+
+
+
+function sSw(switchId,val) {
+ return $gameSwitches.setValue(switchId,val);
+};
+function sVr(varId,val) {
+ return $gameVariables.setValue(varId,val);
+};
